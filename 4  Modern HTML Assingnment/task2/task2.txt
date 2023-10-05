@@ -1,0 +1,8 @@
+HTML entities are used to display reserved characters, special characters, or invisible characters in 
+HTML These are characters that might be confused with HTML code or are not present on a normal keyboard.
+example,
+        1] Non-breaking space: &nbsp; or &#160;
+        2] Less than sign: &lt; or &#60;
+        3] Greater than sign: &gt; or &#62;
+        4] Ampersand: &amp; or &#38;
+        5] Double quotation mark: &quot; or &#34;

@@ -1,0 +1,7 @@
+1] Audio and Video: HTML5 introduced audio and video tags, allowing developers to embed multimedia directly into their websites.
+2] Vector Graphics: HTML5 supports vector graphics, which are scalable, easy to create and edit, and support interactivity and animation.
+3] Header and Footer: These new tags eliminate the need for a div tag to identify these elements.
+4] Input Tag Types: HTML5 expanded the types of input tags, including email, month, number, range, search, tel, color, week, URL, time, date, DateTime-local, etc.
+5] Cross-Browser Compatibility: HTML5 is designed to be compatible across different browsers.
+6] Persistent Local Storage: This feature allows for offline browsing without resorting to third-party plugins.
+7] Improved Interoperability: HTML5 includes detailed processing models to encourage more interoperable implementations.
